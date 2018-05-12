@@ -1,0 +1,31 @@
+_repo: Wyndham-s-Pal_39349
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39349-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: Although he was born in and spent much of his life in England, Harold
+  Bindloss spent some of his formative early adulthood in Western Canada. His memories
+  of this time served as creative fodder when Bindloss turned to fiction writing later
+  in life. Wyndham's Pal serves up classic Bindloss at his best, with plenty of action,
+  adventure, and romance.
+gutenberg_issued: '2012-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: Wyndham's Pal
+url: http://www.gutenberg.org/ebooks/39349
